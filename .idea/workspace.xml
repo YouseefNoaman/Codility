@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00a903cf-1ed3-4021-9a43-8e0e4f05c47d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Codility Phone number format/META-INF/Codility Phone number format.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Codility Phone number format/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Codility Phone number format/com/company/PhoneFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Codility Phone number format/com/company/PhoneFormatterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Codility Phone number format/com/company/Test/PhoneFormatterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/Codility Phone number format.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/META-INF/Codility Phone number format.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/com/company/PhoneFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Codility Phone number format/com/company/Test/PhoneFormatterTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\SefoNoaman\Downloads\gs-rest-service-master\gs-rest-service-master\Codility Phone number format" />
+        <option value="C:\Users\SefoNoaman\Downloads\gs-rest-service-master\gs-rest-service-master\Codility Phone number format\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UWaqKVsPRfsoLtLZeDIAAR0ajG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneFormatterTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Codility Phone number format" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codility Phone number format" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Test.PhoneFormatterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneFormatterTest.phoneFormat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codility Phone number format" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Test.PhoneFormatterTest" />
+      <option name="METHOD_NAME" value="phoneFormat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.PhoneFormatterTest" />
+      <item itemvalue="JUnit.PhoneFormatterTest.phoneFormat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneFormatterTest" />
+        <item itemvalue="JUnit.PhoneFormatterTest.phoneFormat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a903cf-1ed3-4021-9a43-8e0e4f05c47d" name="Default Changelist" comment="" />
+      <created>1575474994951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575474994951</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit, the code in a class and a Junit Test file">
+      <created>1575479111290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575479111290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit, the code in a class and a Junit Test file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit, the code in a class and a Junit Test file" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="83" key="#PhoneFormatterTest" timestamp="1575476887030">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="365" y="83" key="#PhoneFormatterTest/0.0.1536.834@0.0.1536.834" timestamp="1575476887030" />
+    <state x="93" y="93" width="1350" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575476969803">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.834@0.0.1536.834" timestamp="1575476969803" />
+    <state x="958" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1575476643017">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1575476643017" />
+    <state x="264" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575478993561">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="264" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1575478993561" />
+    <state x="566" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1575478996021">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1575478996021" />
+    <state x="201" y="11" key="CommitChangelistDialog2" timestamp="1575479109126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="201" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1575479109126" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1575479225064">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1575479225064" />
+    <state x="520" y="112" key="FileChooserDialogImpl" timestamp="1575475127127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="520" y="112" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1575475127127" />
+    <state x="593" y="310" width="465" height="352" key="Github.ShareDialog" timestamp="1575479296430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="593" y="310" width="465" height="352" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1575479296430" />
+    <state x="318" y="122" key="Github.UntrackedFilesDialog" timestamp="1575478973941">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="318" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1575478973941" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1575479113280">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575479113280" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1575479113279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575479113279" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1575479113278">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575479113278" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1575479113279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575479113279" />
+    <state x="349" y="151" key="IDE.errors.dialog" timestamp="1575479148338">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="151" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1575479148338" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1575478810968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575478810968" />
+    <state x="573" y="340" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575475617341">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="340" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1575475617341" />
+    <state x="615" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575475709172">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="615" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1575475709172" />
+    <state x="499" y="172" key="extract.method.dialog" timestamp="1575477591457">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="172" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1575477591457" />
+    <state x="209" y="37" key="new project wizard" timestamp="1575475272993">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="37" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1575475272993" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1575475315242">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1575475315242" />
+  </component>
+</project>
